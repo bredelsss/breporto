@@ -71,7 +71,7 @@ export function Hero() {
             <div className="relative w-full max-w-[400px] aspect-[4/4] lg:aspect-[5/5] rounded-full overflow-hidden mask-oval bg-surface shadow-2xl">
               <motion.img
                 style={{ y }}
-                src="/public/Self.jpg"
+                src="/Self.jpg"
                 alt="Abstract creative visual"
                 className="w-full h-[130%] object-cover scale-110 hover:scale-100 transition-transform duration-1000 ease-out origin-top"
                 referrerPolicy="no-referrer"
