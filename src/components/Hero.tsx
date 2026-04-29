@@ -52,10 +52,6 @@ export function Hero() {
                 <span className="text-lg font-medium">UI/UX Designer</span>
               </div>
               <div className="flex flex-col">
-                <span className="text-xs font-bold uppercase tracking-widest text-ink/50 mb-1">Focus</span>
-                <span className="text-lg font-medium">Web Development</span>
-              </div>
-              <div className="flex flex-col">
                 <span className="text-xs font-bold uppercase tracking-widest text-ink/50 mb-1">Strategy</span>
                 <span className="text-lg font-medium">Digital Marketing</span>
               </div>
