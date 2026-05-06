@@ -8,7 +8,7 @@ const projects = [
     role: "UI/UX & Wordpress Developer",
     summary: "Redesign of the company's website to improve user experience and showcase services effectively.",
     tags: ["Wordpress", "Figma"],
-    image: "/Moodboard4.png",
+    image: "/Moodboard6.png",
     link: "https://www.figma.com/design/yhoA8qCflg4QyxgmPzUaUb/Etnicode-Academy?node-id=0-1&t=bxXVDn4KkTOeKJ8b-1",
   },
   {
@@ -37,6 +37,15 @@ const projects = [
     tags: ["UI/UX", "Figma", "Wireframe", "Prototyping", "Design Systems"],
     image: "/Moodboard5.png",
     link: "https://www.figma.com/design/sqHoopNuey9VQ5bv45OkqV/Paceflux?node-id=0-1&t=67ULrL9fR1NPqn2N-1",
+  },
+  {
+    id: "05",
+    title: "Develop Clothing Store Mobile Application Design Project",
+    role: "UI/UX Designer",
+    summary: "A sleek mobile app centered on clothing shopping (discovery, buying, customization), delivering an intuitive interface and striking visual design.,
+    tags: ["UI/UX", "Figma", "Wireframe", "Prototyping", "Design Systems"],
+    image: "/Moodboard4.png",
+    link: "https://www.figma.com/design/hO926bW8imf75T3LoGMzew/ProjectDummiest?node-id=263-359&t=zB8nf3ak1Cd64eS8-1",
   },
 ];
 
