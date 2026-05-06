@@ -42,7 +42,7 @@ const projects = [
     id: "05",
     title: "Develop Clothing Store Mobile Application Design Project",
     role: "UI/UX Designer",
-    summary: "A sleek mobile app centered on clothing shopping (discovery, buying, customization), delivering an intuitive interface and striking visual design.,
+    summary: "A sleek mobile app centered on clothing shopping (discovery, buying, customization), delivering an intuitive interface and striking visual design.",
     tags: ["UI/UX", "Figma", "Wireframe", "Prototyping", "Design Systems"],
     image: "/Moodboard4.png",
     link: "https://www.figma.com/design/hO926bW8imf75T3LoGMzew/ProjectDummiest?node-id=263-359&t=zB8nf3ak1Cd64eS8-1",
